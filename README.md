@@ -7,4 +7,4 @@ All data is human-readable .txt or .csv format.
 
 In the file names, CPB means CsPbBr3, shorthand for the sample investigated.
 
-For more information, please reach out to the corresponding author at patanjali.kambhampati@mcgill.ca
+For more information, please reach out to the corresponding author at pat.kambhampati@mcgill.ca
